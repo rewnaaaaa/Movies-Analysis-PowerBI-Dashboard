@@ -7,6 +7,8 @@ Welcome to my first Power BI project! This dashboard provides an interactive and
 - **Interactive Slicer:** Filter data easily by `Decade_DAX`.
 - **Top 10 Analysis:** Bar chart visualizing top-rated/ranked movies.
 - **Trend Analysis:** Line chart showing movie trends by year.
+## 🖼️ Dashboard Preview
+![Dashboard Preview](Dashboard-Preview.jpg)
 
 ## 🛠️ Tools & Technologies Used:
 - **Power BI Desktop** (DAX, Data Modeling, Custom Formatting)
