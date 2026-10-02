@@ -8,7 +8,12 @@ Welcome to my first Power BI project! This dashboard provides an interactive and
 - **Top 10 Analysis:** Bar chart visualizing top-rated/ranked movies.
 - **Trend Analysis:** Line chart showing movie trends by year.
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](Dashboard-Preview.jpg)
+
+Here is a quick look at the interactive Power BI dashboard:
+
+<p align="center">
+  <img src="Dashboard-Preview.jpg" alt="Movies Dashboard Preview" width="800"/>
+</p>
 
 ## 🛠️ Tools & Technologies Used:
 - **Power BI Desktop** (DAX, Data Modeling, Custom Formatting)
